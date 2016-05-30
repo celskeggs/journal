@@ -1,0 +1,23 @@
+{
+  "name": "journal",
+  "version": "0.1.0",
+  "description": "A personal microblogging platform.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/celskeggs/journal.git"
+  },
+  "author": "@celskeggs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/celskeggs/journal/issues"
+  },
+  "homepage": "https://github.com/celskeggs/journal/#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^1.2.0"
+  }
+}
+
