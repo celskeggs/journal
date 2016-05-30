@@ -1,4 +1,4 @@
-# Journal: like a microblogging tool, but just for you.
+# Journey: like a microblogging tool, but just for you.
 
 In progress.
 

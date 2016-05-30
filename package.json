@@ -1,5 +1,5 @@
 {
-  "name": "journal",
+  "name": "journey",
   "version": "0.1.0",
   "description": "A personal microblogging platform.",
   "main": "main.js",
@@ -8,16 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/celskeggs/journal.git"
+    "url": "git+https://github.com/celskeggs/journey.git"
   },
   "author": "@celskeggs",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/celskeggs/journal/issues"
+    "url": "https://github.com/celskeggs/journey/issues"
   },
-  "homepage": "https://github.com/celskeggs/journal/#readme",
+  "homepage": "https://github.com/celskeggs/journey/#readme",
   "devDependencies": {
     "electron-prebuilt": "^1.2.0"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "mustache": "^2.2.1"
   }
 }
-
